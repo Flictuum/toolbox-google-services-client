@@ -1,0 +1,8 @@
+{
+  "name": "toolbox-google-services-client",
+  "version": "0.0.1",
+  "description": "Google client to interact with google apis, based on the fact you have a Google service account",
+  "main": "index.js",
+  "author": "Florent Bertrand <florent.bertrand@epitech.eu>",
+  "license": "MIT"
+}
